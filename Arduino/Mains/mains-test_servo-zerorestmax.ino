@@ -1,5 +1,10 @@
 #include <Servo.h>
 
+/**
+ * @see http://inmoov.fr/sketch-servo-zero-rest-max/
+ */
+
+
 Servo servothumb;          // Define thumb servo
 Servo servoindex;          // Define index servo
 Servo servomajeure;
