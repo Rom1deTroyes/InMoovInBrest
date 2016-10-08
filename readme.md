@@ -1,5 +1,5 @@
 French Pouce/Index/Majeur/Annulaire/Auriculaire
-
+- [ ] Right Hand
   - [ ] Auriculaire3.stl
   - [ ] Bolt_entretoise4.stl
   - [ ] Index3.stl
