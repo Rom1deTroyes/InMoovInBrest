@@ -56,6 +56,28 @@ Avancement des impressions.
 			[_] WristGears : WristGearsV5.stl
 			[_] CableHolderWrist : CableHolderWristV5.stl
 	[_] 0% BICEP
+		[_] 0% Left Biceps
+		[_] 0% Right Biceps
+			[_] GearHolder
+			[_] 2x HighArmSide
+			[_] Pistonanticlock
+			[_] Pistonbaseanti
+			[_] RotGear
+			[_] RotMit
+			[_] RotPotentio
+			[_] RotTit
+			[_] RotWorm
+			[_] Rotcenter
+			[_] armtopcover1
+			[_] armtopcover2
+			[_] armtopcover3
+			[_] elbowshaftgear
+			[_] gearpotentio
+			[_] 2x lowarmside
+			[_] 2x reinforcer
+			[_] servobase
+			[_] servoholder
+			[_] spacer
 	[_] 0% SHOULDERS AND TORSO
 	[_] 0% HEAD, EYES and NECK
 	[_] 0% TOP STOMACH
