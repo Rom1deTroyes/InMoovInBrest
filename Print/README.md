@@ -1,12 +1,12 @@
 Avancement des impressions.
 
-[_] 17% InMoovInBrest :
+[_] 18% InMoovInBrest :
 	[X] 100% FINGER STARTER
 		[X] FingerIndex
 		[X] FingerTester
 		[X] RobRing
 		[X] Servo-Pulley
-	[_] 58% HAND & FORARM
+	[_] 65% HAND & FORARM
 		[X] 100% Left hand
 			[X] Thumb : LeftThumb5.stl
 			[X] Index : Index3.stl
@@ -29,25 +29,25 @@ Avancement des impressions.
 			[X] rotawrist3 : RotaWrist3V3.stl
 			[X] WristGears : WristGearsV5.stl
 			[X] CableHolderWrist : LeftCableHolderWristV5.stl
-		[_] 33% Right hand
+		[_] 62% Right hand
 			[X] Thumb : thumb5.stl
 			[X] Index : Index3.stl
 			[X] Majeure : Majeure3.stl
 			[X] Auriculaire : Auriculaire3.stl
 			[X] Pinky : ringfinger3.stl
-			[_] Bolt_entretoise : Bolt_entretoise4.stl
-			[_] Wristlarge : WristlargeV3.stl
-			[_] Wristsmall : WristsmallV3.stl
+			[X] Bolt_entretoise : Bolt_entretoise4.stl
+			[X] Wristlarge : WristlargeV3.stl
+			[X] Wristsmall : WristsmallV3.stl
+			[X] CableHolder : cableholder1.stl
 			[_] topsurface : topsurface4.stl
 			[_] coverfinger : coverfinger1.stl
 			[_] robcap3 : robcap3V1.stl
 			[_] robpart2 : robpart2V2.stl
-			[_] robpart3 : robpart3.stl
+			[X] robpart3 : robpart3.stl
 			[_] robpart4 : robpart4v2.stl
 			[_] robpart5 : robpart5V2.stl
 		Unsused
 			: ardiuinosupport.stl
-			: cableholder1.stl
 			: robpart1.stl
 		[_] 0% Right wrist
 			[_] rotawrist2 : RotaWrist2v3
