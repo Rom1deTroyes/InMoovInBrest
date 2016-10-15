@@ -125,7 +125,43 @@ Avancement des impressions.
 				[_] homplatefront-V1.stl
 				[_] servoHolsterV1.stl
 		[_] % Lef Shoulder
+			[_] ClaviBack : ClaviBackV2.stl
+			[_] ClaviFront : ClaviFrontV2.stl
+			[_] PistonClavi : PistonClaviV3.stl
+			[_] Pistonbase : PistonbaseV6.stl
+			[_] 2x PivConnector : PivConnectorV1.stl
+			[_] PivGear : PivGearV5.stl
+			[_] PivMit : leftPivMitV1.stl
+			[_] PivPotentio : 
+				: PivPotentioRoundV3.stl
+				: PivPotentioSquareV3.stl 
+			[_] PivPotholder : LeftPivPotholderV2.stl
+			[_] PivTit : leftPivTitV3.stl
+			[_] PivWorm : PivWormV2.stl 
+			[_] Pivcenter : leftPivcenterV1.stl
+			[_] servoHolster : servoHolsterV1.stl
+			[_] servoholder : servoholderV1.stl
+			[_] En plus
+				[_] LogoLeftMyrobotlabV2.stl
 		[_] % Right Shoulder
+			[_] ClaviBack : ClaviBackV2.stl
+			[_] ClaviFront : ClaviFrontV2.stl
+			[_] PistonClavi : PistonClaviV3.stl
+			[_] Pistonbase : PistonbaseV6.stl
+			[_] 2x PivConnector : PivConnectorV1.stl
+			[_] PivGear : PivGearV5.stl
+			[_] PivMit : PivMitV1.stl
+			[_] PivPotentio : 
+				: PivPotentioRoundV3.stl
+				: PivPotentioSquareV3.stl 
+			[_] PivPotholder : PivPotholderV2.stl
+			[_] PivTit : PivTitV3.stl
+			[_] PivWorm : PivWormV2.stl 
+			[_] Pivcenter : PivcenterV1.stl
+			[_] servoHolster : servoHolsterV1.stl
+			[_] servoholder : servoholderV1.stl
+			[_] En plus
+				[_] LogoRightMyrobotlabV2.stl
 	[_] 0% HEAD, EYES and NECK
 	[_] 0% TOP STOMACH
 	[_] 0% MID STOMACH
