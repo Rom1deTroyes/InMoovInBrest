@@ -57,27 +57,51 @@ Avancement des impressions.
 			[_] CableHolderWrist : CableHolderWristV5.stl
 	[_] 0% BICEP
 		[_] 0% Left Biceps
+			[_] GearHolder : GearHolderV1.stl
+			[_] 2x HighArmSide : HightArmSideV2.stl
+			[_] Pistonanticlock : PistonanticlockV2.stl
+			[_] Pistonbaseanti : PistonbaseantiV2.stl 
+			[_] RotGear : RotGearV5.stl
+			[_] RotMit : RotMitV2.stl 
+			[_] RotPotentio : 
+				: PivPotentioRoundV3.stl 
+				: PivPotentioSquareV3.stl 
+			[_] RotTit : LeftRotTitV3.stl
+			[_] RotWorm : RotWormV5.stl
+			[_] Rotcenter : LeftRotcenterV2.stl
+			[_] armtopcover1 : armtopcover1.stl
+			[_] armtopcover2 : armtopcover2.stl
+			[_] armtopcover3 : armtopcover3.stl
+			[_] elbowshaftgear : elbowshaftgearV1.stl
+			[_] gearpotentio : gearpotentioV1.stl
+			[_] 2x lowarmside : lowarmsideV1.stl
+			[_] 2x reinforcer : reinforcerV1.stl
+			[_] servobase : servobaseV1.stl
+			[_] servoholder : servoholderV1.stl
+			[_] spacer : spacerV1.stl
 		[_] 0% Right Biceps
-			[_] GearHolder
-			[_] 2x HighArmSide
-			[_] Pistonanticlock
-			[_] Pistonbaseanti
-			[_] RotGear
-			[_] RotMit
-			[_] RotPotentio
-			[_] RotTit
-			[_] RotWorm
-			[_] Rotcenter
-			[_] armtopcover1
-			[_] armtopcover2
-			[_] armtopcover3
-			[_] elbowshaftgear
-			[_] gearpotentio
-			[_] 2x lowarmside
-			[_] 2x reinforcer
-			[_] servobase
-			[_] servoholder
-			[_] spacer
+			[_] GearHolder : GearHolderV1.stl
+			[_] 2x HighArmSide : HightArmSideV2.stl
+			[_] Pistonanticlock : PistonanticlockV2.stl
+			[_] Pistonbaseanti : PistonbaseantiV2.stl 
+			[_] RotGear : RotGearV5.stl
+			[_] RotMit : RotMitV2.stl 
+			[_] RotPotentio : 
+				: PivPotentioRoundV3.stl 
+				: PivPotentioSquareV3.stl 
+			[_] RotTit : RotTitV3.stl
+			[_] RotWorm : RotWormV5.stl
+			[_] Rotcenter : RotcenterV2.stl
+			[_] armtopcover1 : armtopcover1.stl
+			[_] armtopcover2 : armtopcover2.stl
+			[_] armtopcover3 : armtopcover3.stl
+			[_] elbowshaftgear : elbowshaftgearV1.stl
+			[_] gearpotentio : gearpotentioV1.stl
+			[_] 2x lowarmside : lowarmsideV1.stl
+			[_] 2x reinforcer : reinforcerV1.stl
+			[_] servobase : servobaseV1.stl
+			[_] servoholder : servoholderV1.stl
+			[_] spacer : spacerV1.stl
 	[_] 0% SHOULDERS AND TORSO
 	[_] 0% HEAD, EYES and NECK
 	[_] 0% TOP STOMACH
