@@ -103,6 +103,29 @@ Avancement des impressions.
 			[_] servoholder : servoholderV1.stl
 			[_] spacer : spacerV1.stl
 	[_] 0% SHOULDERS AND TORSO
+		[_] % Torso
+			[_] 2x: KinectSideHolder : KinectSideHolderV1.stl
+			[_] 2x: KinectSideBack : KinectSideBackV1.stl
+			[_] KinectMidFront : KinectMidFrontV1.stl
+			[_] KinectMidBack : KinectMidBackV1.stl
+			[_] 2x: InterKinectSide : InterKinectSideV1.stl
+			[_] 2x: InterKinectMid : InterKinectMidV1.stl
+			[_] 2x: HomLowFront : HomLowFront-V1.stl
+			[_] 2x: HomLowBack : HomLowBack-V1.stl
+			[_] 2x: ChestLow : ChestLowV1.stl
+			[_] En plus :
+				[_] SternumV1.stl
+				[_] ThroatLowerV1.stl
+				[_] arduinosupportmega.stl
+				[_] homplateback+V1.stl
+				[_] homplateback-V1.stl
+				[_] homplatebacklow+V1.stl
+				[_] homplatebacklow-V1.stl
+				[_] homplatefront+V1.stl
+				[_] homplatefront-V1.stl
+				[_] servoHolsterV1.stl
+		[_] % Lef Shoulder
+		[_] % Right Shoulder
 	[_] 0% HEAD, EYES and NECK
 	[_] 0% TOP STOMACH
 	[_] 0% MID STOMACH
