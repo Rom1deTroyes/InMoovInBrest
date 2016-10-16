@@ -16,7 +16,9 @@ Avancement des impressions.
 			[X] Bolt_entretoise : Bolt_entretoise7.stl
 			[X] Wristlarge : LeftWristlargeV4.stl
 			[X] Wristsmall : LeftWristsmallV4.stl
-			[X] topsurface : LeftTopsurface6.stl | LeftTopsurfaceUP6.stl
+			[X] topsurface :
+				: LeftTopsurface6.stl
+				: LeftTopsurfaceUP6.stl
 			[X] coverfinger : LeftCoverfinger1.stl
 			[X] robcap3 : LeftRobCap3V2.stl
 			[X] robpart2 : LeftRobpart2V4.stl
@@ -50,7 +52,7 @@ Avancement des impressions.
 			: ardiuinosupport.stl
 			: robpart1.stl
 		[_] 0% Right wrist
-			[_] rotawrist2 : RotaWrist2v3
+			[_] rotawrist2 : RotaWrist2v3.stl
 			[_] rotawrist1 : Rotawrist1V4.stl
 			[_] rotawrist3 : RotaWrist3V3.stl
 			[_] WristGears : WristGearsV5.stl
@@ -60,12 +62,12 @@ Avancement des impressions.
 			[_] GearHolder : GearHolderV1.stl
 			[_] 2x HighArmSide : HightArmSideV2.stl
 			[_] Pistonanticlock : PistonanticlockV2.stl
-			[_] Pistonbaseanti : PistonbaseantiV2.stl 
+			[_] Pistonbaseanti : PistonbaseantiV2 : 
 			[_] RotGear : RotGearV5.stl
-			[_] RotMit : RotMitV2.stl 
+			[_] RotMit : RotMitV2.stl
 			[_] RotPotentio : 
-				: PivPotentioRoundV3.stl 
-				: PivPotentioSquareV3.stl 
+				: PivPotentioRoundV3.stl
+				: PivPotentioSquareV3.stl
 			[_] RotTit : LeftRotTitV3.stl
 			[_] RotWorm : RotWormV5.stl
 			[_] Rotcenter : LeftRotcenterV2.stl
@@ -83,12 +85,12 @@ Avancement des impressions.
 			[_] GearHolder : GearHolderV1.stl
 			[_] 2x HighArmSide : HightArmSideV2.stl
 			[_] Pistonanticlock : PistonanticlockV2.stl
-			[_] Pistonbaseanti : PistonbaseantiV2.stl 
+			[_] Pistonbaseanti : PistonbaseantiV2.stl
 			[_] RotGear : RotGearV5.stl
-			[_] RotMit : RotMitV2.stl 
+			[_] RotMit : RotMitV2.stl
 			[_] RotPotentio : 
-				: PivPotentioRoundV3.stl 
-				: PivPotentioSquareV3.stl 
+				: PivPotentioRoundV3.stl
+				: PivPotentioSquareV3.stl
 			[_] RotTit : RotTitV3.stl
 			[_] RotWorm : RotWormV5.stl
 			[_] Rotcenter : RotcenterV2.stl
@@ -134,10 +136,10 @@ Avancement des impressions.
 			[_] PivMit : leftPivMitV1.stl
 			[_] PivPotentio : 
 				: PivPotentioRoundV3.stl
-				: PivPotentioSquareV3.stl 
+				: PivPotentioSquareV3.stl
 			[_] PivPotholder : LeftPivPotholderV2.stl
 			[_] PivTit : leftPivTitV3.stl
-			[_] PivWorm : PivWormV2.stl 
+			[_] PivWorm : PivWormV2.stl
 			[_] Pivcenter : leftPivcenterV1.stl
 			[_] servoHolster : servoHolsterV1.stl
 			[_] servoholder : servoholderV1.stl
@@ -153,16 +155,69 @@ Avancement des impressions.
 			[_] PivMit : PivMitV1.stl
 			[_] PivPotentio : 
 				: PivPotentioRoundV3.stl
-				: PivPotentioSquareV3.stl 
+				: PivPotentioSquareV3.stl
 			[_] PivPotholder : PivPotholderV2.stl
 			[_] PivTit : PivTitV3.stl
-			[_] PivWorm : PivWormV2.stl 
+			[_] PivWorm : PivWormV2.stl
 			[_] Pivcenter : PivcenterV1.stl
 			[_] servoHolster : servoHolsterV1.stl
 			[_] servoholder : servoholderV1.stl
 			[_] En plus
 				[_] LogoRightMyrobotlabV2.stl
-	[_] 0% HEAD, EYES and NECK
+	[_] 2% HEAD, EYES and NECK
+		[_] Inmoov Head / skull stand
+			: http://www.thingiverse.com/thing:150209
+		[_] 14% Face and Jaws
+			[X] EyeglassV4 : EyeglassV4.stl
+			[_] JawHinge : JawHingeV1.stl
+			[_] JawHinge : JawHingeV3.stl
+			[_] JawPiston : JawPistonV1.stl
+			[_] JawSupport : JawSupportV1.stl
+			[_] Jaw : JawV4.stl
+			[_] LowBack : LowBackV3.stl
+			[_] SideHearV3.stl
+			[_] TopMouthV3.stl
+		[_] 0% Eyes mechanism
+			[_] 2xEyeBallFull : 2xEyeBallFullV2.stl
+			[_] EyeBallSupportHerculeLeft : EyeBallSupportHerculeLeftV2.stl
+			[_] EyeBallSupportHerculeRight : EyeBallSupportHerculeRightV2.stl
+			[_] EyeBallSupportLifeCamHDLeft : EyeBallSupportLifeCamHDLeftV1.stl
+			[_] EyeBallSupportLifeCamHDRight : EyeBallSupportLifeCamHDRightV1.stl
+			[_] EyeHingeCurve : EyeHingeCurveV1.stl
+			[_] EyeHinge : EyeHingeV2.stl
+			[_] EyeHolder : EyeHolderV1.stl
+			[_] EyePlateLeft : EyePlateLeftV1.stl
+			[_] EyePlateRight : EyePlateRightV1.stl
+			[_] EyeSupport : EyeSupportV5.stl
+			[_] EyeTo Nose : EyeTo NoseV5.stl
+		[_] 0% Skull and Ears
+			[_] EarLeft : EarLeftV0.stl
+			[_] EarLeft : EarLeftV1.stl
+			[_] EarRight : EarRightV0.stl
+			[_] EarRight : EarRightV1.stl
+			[_] EarSpeakerLeft : EarSpeakerLeftV1.stl
+			[_] EarSpeakerRight : EarSpeakerRightV1.stl
+			[_] Speaker : Speaker1.stl
+			[_] SpeakerSpacer : SpeakerSpacer1.stl
+			[_] TopBackskull : TopBackskullV1.stl
+			[_] TopskullLeft : TopskullLeftV3.stl
+			[_] TopskullRight : TopskullRightV3.stl
+		[_] 0% Neck
+			[_] FaceHolder : FaceHolderV4.stl
+			[_] GearHolder : GearHolderV1.stl
+			[_] MainGear : MainGearV1.stl
+			[_] NeckBolts : NeckBoltsV2.stl
+			[_] NeckHinge : NeckHingeV2.stl
+			[_] Neck : NeckV1.stl
+			[_] Ring : RingV1.stl
+			[_] ServoGear : ServoGearV1.stl
+			[_] SkullServoFix : SkullServoFixV1.stl
+			[_] ThroatHolder : ThroatHolderV2.stl
+			[_] ThroatHole : ThroatHoleV3.stl
+			[_] ThroatPistonBase : ThroatPistonBaseV3.stl
+			[_] ThroatPiston : ThroatPistonV3.stl
+			[_] En plus
+				[_] SpeakerMouthHolderV2.stl
 	[_] 0% TOP STOMACH
 	[_] 0% MID STOMACH
 	[_] 0% LOW STOMACH
