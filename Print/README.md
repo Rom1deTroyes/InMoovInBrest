@@ -219,6 +219,42 @@ Avancement des impressions.
 			[_] En plus
 				[_] SpeakerMouthHolderV2.stl
 	[_] 0% TOP STOMACH
+		[_] % Step 1
+			[_] RollFrontRightV1.stl
+			[_] RollFrontLeftV1.stl
+			[_] RollBackRightV1.stl
+			[_] RollBackLeftV1.stl
+		[_] % Step 2
+			[_] ServoBackV1.stl
+			[_] TStoServoHolsterV2.stl
+		[_] % Step 3
+			[_] StomGearV2.stl
+			[_] StoGearAttachV1.stl
+		[_] % Step 4
+			[_] TStoBackStandRightV1.stl
+			[_] TStoBackStandLeftV1.stl
+			[_] TStomRotBackV1.stl
+			[_] TStoBackRightV1.stl
+			[_] TStoBackLeftV1.stl
+			[_] TStoMiddleV1.stl
+		[_] % Step 5
+			[_] TStoFrontRightV1.stl
+			[_] TStoFrontLeftV1.stl
+			[_] TStoMiddleV1.stl
+			[_] TStomRotFrontV1.stl
+			[_] TStoFrontStandV1.stl
+			[_] TStoPistonRightV2.stl
+			[_] TStoPistonLeftV2.stl
+			[_] TStomCovRightV2.stl
+			[_] TStomCovLeftV2.stl
+			[_] TStomPotHolderv1.stl
+			[_] TStomSpacerV1.stl
+		[_] % Step 6
+			[_] DiskInternV3 .stl
+			[_] DiskUnderV1.stl
+			[_] 4 x DiskExternV2.stl
+		[_] % Hacked Servos
+			[_]  2 servos HS805BB
 	[_] 0% MID STOMACH
 	[_] 0% LOW STOMACH
 	[_] 0% BACK COVER
