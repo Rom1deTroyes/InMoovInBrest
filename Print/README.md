@@ -41,7 +41,7 @@ Avancement des impressions.
 			[X] Wristlarge : WristlargeV3.stl
 			[X] Wristsmall : WristsmallV3.stl
 			[X] CableHolder : cableholder1.stl
-			[_] topsurface : topsurface4.stl
+			[x] topsurface : topsurface4.stl
 			[_] coverfinger : coverfinger1.stl
 			[_] robcap3 : robcap3V1.stl
 			[_] robpart2 : robpart2V2.stl
