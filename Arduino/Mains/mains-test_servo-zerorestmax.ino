@@ -1,4 +1,5 @@
 #include <Servo.h>
+#include config.h
 
 /**
  * @see http://inmoov.fr/sketch-servo-zero-rest-max/
@@ -19,18 +20,18 @@ Servo servoneck;
 Servo servorothead;
 
 void setup() { 
-  servothumb.attach(2);  // Set thumb servo to digital pin 2
-  servoindex.attach(3);  // Set index servo to digital pin 3
-  servomajeure.attach(4);
-  servoringfinger.attach(5);
-  servopinky.attach(6);
-  servowrist.attach(7);
-  servobiceps.attach(8);
-  servorotate.attach(9);
-  servoshoulder.attach(10);
-  servoomoplat.attach(11);
-  servoneck.attach(12);
-  servorothead.attach(13);
+  servothumb.attach(SERVOTHUMB);  // Set thumb servo to digital pin 2
+  servoindex.attach(SERVOINDEX);  // Set index servo to digital pin 3
+  servomajeure.attach(SERVOMAJEURE);
+  servoringfinger.attach(SERVORINGFINGER);
+  servopinky.attach(SERVOPINKY);
+  servowrist.attach(SERVOWRIST);
+  servobiceps.attach(SERVOBICEPS);
+  servorotate.attach(SERVOROTATE);
+  servoshoulder.attach(SERVOSHOULDER);
+  servoomoplat.attach(SERVOOMOPLAT);
+  servoneck.attach(SERVONECK);
+  servorothead.attach(SERVOROTHEAD);
   
 } 
 
